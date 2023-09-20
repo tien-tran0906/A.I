@@ -7,4 +7,6 @@ This repo consists of solving problems using machine learning, and machine learn
 [Support Vector Machines - Cancer prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/SAlPZOEztBKmj8PVYGWUlu)
 <br>
 [K Means Clustering - Public and Private schools](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/vXhYtd7HufaGR3v2vZsA7I)
+<br>
+[Deep Learning - Regression Model with TensorFlow & Keras](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)
 
