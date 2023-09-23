@@ -13,3 +13,5 @@ This repo consists of solving problems using machine learning, and machine learn
 [Deep Learning - Classification Model - Loan Default Prediction](https://colab.research.google.com/drive/1jxqdWVxfV7sJvTkzGTcOIVfW0PzaZ7VG?usp=sharing)
 <br>
 [Deep Learning - Regression Model - Seattle House Price Prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)
+<br>
+[NLP - Classifying Yelp Reviews](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)
