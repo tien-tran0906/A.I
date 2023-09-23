@@ -10,4 +10,6 @@ This repo consists of solving problems using machine learning, and machine learn
 <br>
 [Deep Learning - Regression Model with TensorFlow & Keras - King County House Prices Prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)
 <br>
-[Deep Learning - Classification Model = Loan Default Prediction](https://colab.research.google.com/drive/1jxqdWVxfV7sJvTkzGTcOIVfW0PzaZ7VG?usp=sharing)
+[Deep Learning - Classification Model - Loan Default Prediction](https://colab.research.google.com/drive/1jxqdWVxfV7sJvTkzGTcOIVfW0PzaZ7VG?usp=sharing)
+<br>
+[Deep Learning - Regression Model - Seattle House Price Prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)
