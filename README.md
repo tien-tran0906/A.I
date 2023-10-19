@@ -17,3 +17,7 @@ This repo consists of solving problems using machine learning, and machine learn
 [Support Vector Machines - Iris Flow Classification](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/W6LfkENxGNYL55y8tgyDbw)
 <br>
 [Q&A Chatbot](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/otVFKESM9oklMRc77FrlG8)
+<br>
+[Poem Generation - Markov Model](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/uiJOJFlU9CBh5rNY13T1F8)
+<br>
+[Poet Classifier - Markov Model](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/qPIGaE5LRkUtUxQAwijsHp)
