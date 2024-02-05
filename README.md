@@ -21,3 +21,5 @@ This repo consists of solving problems using machine learning, and machine learn
 [Poem Generation - Markov Model](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/uiJOJFlU9CBh5rNY13T1F8)
 <br>
 [Poet Classifier - Markov Model](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/qPIGaE5LRkUtUxQAwijsHp)
+<br>
+[ResNet50 - Transfer Learning + Fine Tuning](https://colab.research.google.com/drive/1Kynv0hokgXgRE9QCkxgg7yi_SwKRH4b4?usp=sharing)
